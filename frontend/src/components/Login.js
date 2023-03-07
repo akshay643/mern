@@ -77,7 +77,7 @@ const Login = () => {
 						</form>
 					</div>
 					<div class="row">
-						<p>Don't have an account? <a href="#"> <NavLink to="/signup"> Register Here </NavLink> </a></p>
+						<p>Don't have an account? <a href="#"> <NavLink to="/signup"> Register Now </NavLink> </a></p>
 					</div>
 				</div>
 			</div>
