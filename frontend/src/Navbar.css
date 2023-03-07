@@ -1,0 +1,12 @@
+nav,ul{
+    background-color: lightgrey;
+    color:#fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+li{
+    list-style-type: none;
+    display: inline-block;
+}
