@@ -72,7 +72,7 @@ const Login = () => {
 							</div> */}
 							<div class="row">
 								{/* <input   type="submit" value="Submit" class="btn"/> */}
-                <button className='btn btn-info bg-light' onClick={onSubmit}>Login</button>
+                <button className='btn btn-info bg-light' onClick={onSubmit}>Log In</button>
 							</div>
 						</form>
 					</div>
